@@ -1,0 +1,8 @@
+# Vim files
+*.un~
+
+# Freecad backup files
+*.fcstd1
+
+# Generated models
+*.stl
